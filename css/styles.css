@@ -2,3 +2,40 @@ ul.columns {
   width:900px;
   float: right;
 }
+.gorilla{
+  border: 2px solid gold;
+  padding:4px;
+  margin: 12px;
+  color: red;
+}
+.gorilla h3{
+  border: 2px solid gold;
+  padding:4px;
+  margin: 12px;
+  color: blue;
+  }
+
+.bobcat {
+  border: 2px solid green;
+  padding: 6px;
+  margin: 6px;
+}
+
+.bobcat p {
+  color: orange;
+
+}
+
+.bobcat h3{
+  color:green;
+}
+
+.blue-dragon{
+  border: 10px solid black;
+  padding: 4px;
+  margin: 6px;
+}
+
+.blue-dragon h3{
+  font-family: fantasy;
+}
