@@ -21,7 +21,7 @@ ul.columns {
   margin: 6px;
 }
 
-.bobcat p {
+.bobcat p{
   color: orange;
 
 }
@@ -38,4 +38,19 @@ ul.columns {
 
 .blue-dragon h3{
   font-family: fantasy;
+}
+
+@media screen and (max-width: 480px) and (min-width: 300px) {
+  {
+    width: 300px;
+    float: left;
+    padding: 20px;
+  }
+}
+
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+  body {
+    background-color: black;
+    color: white;
+  }
 }
