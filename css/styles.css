@@ -40,6 +40,42 @@ ul.columns {
   font-family: fantasy;
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
+
+.center {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  color: hotpink;
+}
+
+h2 {
+  color: hotpink;
+  font-style: italic;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited{
+  color: white;
+}
+
+a:hover {
+  color: orange;
+}
+
+a:active {
+  color: hotpink;
+}
+
 @media screen and (max-width: 480px) and (min-width: 300px) {
   {
     width: 300px;
