@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a website we constructed for Epicodus designed to display a fictional Animal Shelter with a variety of pages, styles, links, and other HTML & CSS elements_
+_This is a website we constructed for Epicodus designed to display a fictional Animal Shelter with a variety of pages, styles, links, and other HTML & CSS elements._
 
 ## Setup/Installation Requirements
 
