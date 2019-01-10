@@ -10,17 +10,17 @@ _This is a website we constructed for Epicodus designed to display a fictional A
 
 ## Setup/Installation Requirements
 
-* Clone to your computer via Github account.
+* Clone to your computer via Github: https://github.com/iwestgate931/Animal-Shelter.git.
 * You can view the code in your preferred text editor.
 * View the website itself in Google Chrome or your preferred web browser.
 
 ## Known Bugs
 
-N/A
+As of 01/09/19, there are no known bugs.
 
 ## Support and contact details
 
-N/A
+iwestgate@hotmail.com, robbiekruszynski@gmail.com, dbanks9@gmail.com 
 
 ## Technologies Used
 
@@ -29,3 +29,5 @@ _HTML & CSS_
 ### License
 
 Copyright (c) 2019 **Ian Cook Westgate, Robbie Kruszynski, Daniel Banks**
+
+This software is licensed under the MIT license.
