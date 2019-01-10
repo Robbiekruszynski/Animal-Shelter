@@ -1,3 +1,9 @@
+body {
+  background-image: url("../img/jungle.jpeg");
+  background-size: cover;
+}
+}
+
 .gorilla{
   border: 2px solid gold;
   padding:4px;
@@ -38,7 +44,6 @@
 
 .center {
   text-align: center;
-  background-color: black;
   color: white;
 }
 
