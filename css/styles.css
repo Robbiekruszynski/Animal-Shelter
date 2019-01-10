@@ -2,13 +2,13 @@
   border: 2px solid gold;
   padding:4px;
   margin: 12px;
-  color: red;
+  color: hotpink;
 }
 .gorilla h3{
   border: 2px solid gold;
   padding:4px;
   margin: 12px;
-  color: blue;
+  color: white;
   }
 
 .bobcat {
@@ -23,7 +23,7 @@
 }
 
 .bobcat h3{
-  color:green;
+  color:white;
 }
 
 .blue-dragon{
@@ -34,13 +34,6 @@
 
 .blue-dragon h3{
   font-family: fantasy;
-}
-
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 }
 
 .center {
